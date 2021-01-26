@@ -11,6 +11,6 @@ I’ve developed campaigns for the past two decades that seek progress through c
 
 I write. Often for and with other people. You’ve probably read something I’ve written or even heard it spoken by a pretty badass individual.
 
-Here I’m mainly writing about people on the margins of history and society as well as ‘misinformation’ and narratives.
+Here I’m mainly writing about people on the [margins](/category/margins/) of history and society as well as ‘misinformation’ and narratives.
 
 Send me a message at jasonw(at)hey.com and say, “Hello, Wojo.”
