@@ -1,13 +1,16 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "/media/image-2.jpg"
+template: page
+title: About me
+slug: about
+socialImage: /media/8e010652-e0ed-4b97-864e-3d8a38a5b81b.jpeg
+draft: false
 ---
+Hello. I’m interested in stories and the narratives that drive our view of the way the world is, the way the world ought to be and our role in changing it.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I’ve developed campaigns for the past two decades that seek progress through compelling stories and meaningful action. I collaborate with some brilliant and creative people to turn ideas into campaigns, and campaigns into movements for change. Sometimes we [win](https://www.worldbank.org/en/news/opinion/2015/11/06/malala-a-full-secondary-education-must-become-the-ordinary-expectation-of-every-girl-in-the-world), but certainly not always.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+I write. Often for and with other people. You’ve probably read something I’ve written or even heard it spoken by a pretty badass individual.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+Here I’m mainly writing about people on the margins of history and society as well as ‘misinformation’ and narratives.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Send me a message at jasonw(at)hey.com and say, “Hello, Wojo.”
