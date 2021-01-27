@@ -30,7 +30,7 @@ module.exports = {
     bio: 'I am a Senior Media Fellow at the Center for Impact Communications where I research and write about messaging for change, misinformation and look at the narratives that shape our world.',
     contacts: {
       email: 'jasonw@hey.com',
-      twitter: 'https://twitter.com/jasonwhat',
+      twitter: 'jasonwhat',
       github: '#',
       rss: '',
     }
