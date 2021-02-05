@@ -10,9 +10,7 @@ category: Margins
 tags:
   - Media
   - COVID-19
----
-
-
+  ---
 *Times* readers awoke to the subject line/headline “The Left’s Vaccine Problem” as the lede in Friday’s morning [briefing](https://www.nytimes.com/2021/02/05/briefing/marjorie-taylor-greene-uk-vaccine-biden-stimulus.html). Writer David Leonhardt asked, “Why aren’t progressive leaders doing a better job at mass vaccination.”
 
 Leonhardt opens pointing out that the “right-wing governments were suffering some of the worst outbreaks,” at the start of the pandemic as they rejected science, while “more progressive and technocratic countries” had more successful strategies.
