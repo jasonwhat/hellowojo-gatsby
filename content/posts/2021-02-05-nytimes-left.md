@@ -5,8 +5,8 @@ slug: times-left
 socialImage: /static/media/left-vaccine-nytimes.png
 draft: false
 date: 2021-02-05T07:10:20.059Z
-description:The New York Times attempts to blame technocrats’ botched vaccine distribution with a failure of “The Left.”
-category: Narrative
+description:The New York Times attempts to blame technocrats’ botched vaccine distribution with a failure of The Left.
+category: The Narrative
 tags:
   - Media
   - COVID-19
