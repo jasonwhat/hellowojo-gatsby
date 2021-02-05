@@ -1,16 +1,17 @@
 ---
 template: post
-title: The New York Times Skews the Narrative on the ‘Left’ and Coronavirus Vaccines
-slug: times-left
-socialImage: /static/media/left-vaccine-nytimes.png
+title: New York Times Attacks 'Left' on Vaccine
+slug: left-times
+socialImage:
 draft: false
-date: 2021-02-05T07:10:20.059Z
-description:The New York Times attempts to blame technocrats’ botched vaccine distribution with a failure of The Left.
+date: 2022-02-05T07:22:20.059Z
+description: New York Times blames the Left for technocrats vaccine failures.
 category: Margins
 tags:
-  - Media
-  - COVID-19
-  ---
+  - History
+  - Politics
+  - Race
+---
 *Times* readers awoke to the subject line/headline “The Left’s Vaccine Problem” as the lede in Friday’s morning [briefing](https://www.nytimes.com/2021/02/05/briefing/marjorie-taylor-greene-uk-vaccine-biden-stimulus.html). Writer David Leonhardt asked, “Why aren’t progressive leaders doing a better job at mass vaccination.”
 
 Leonhardt opens pointing out that the “right-wing governments were suffering some of the worst outbreaks,” at the start of the pandemic as they rejected science, while “more progressive and technocratic countries” had more successful strategies.
