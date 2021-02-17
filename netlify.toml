@@ -10,3 +10,5 @@ package = "netlify-plugin-ghost-markdown"
    [plugins.inputs]
    ghostURL = "https://hellowojo.ghost.io"
    ghostKey = "76a0fef61828decf1420b2a49d"
+   # Optional: Directory containing posts (_posts/ directory by default)
+  postsDir = "./content/posts/"
