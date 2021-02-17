@@ -12,3 +12,5 @@ package = "netlify-plugin-ghost-markdown"
    ghostKey = "76a0fef61828decf1420b2a49d"
    # Optional: Directory containing posts (_posts/ directory by default)
   postsDir = "./content/posts/"
+  # Optional: Directory containing image assets (assets/images by default)
+  assetsDir = "./static/media/"
